@@ -1,0 +1,4 @@
+C:\Users\ASUS\source\repos\Kampintro\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Kampintro\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Kampintro\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Kampintro\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.AssemblyInfo.cs
