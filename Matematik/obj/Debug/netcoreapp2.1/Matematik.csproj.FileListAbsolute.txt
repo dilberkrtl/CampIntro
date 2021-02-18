@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Kampintro\Matematik\obj\Debug\netcoreapp2.1\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Kampintro\Matematik\obj\Debug\netcoreapp2.1\Matematik.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Kampintro\Matematik\obj\Debug\netcoreapp2.1\Matematik.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Kampintro\Matematik\bin\Debug\netcoreapp2.1\Matematik.deps.json
+C:\Users\ASUS\source\repos\Kampintro\Matematik\bin\Debug\netcoreapp2.1\Matematik.runtimeconfig.json
+C:\Users\ASUS\source\repos\Kampintro\Matematik\bin\Debug\netcoreapp2.1\Matematik.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Kampintro\Matematik\bin\Debug\netcoreapp2.1\Matematik.dll
+C:\Users\ASUS\source\repos\Kampintro\Matematik\bin\Debug\netcoreapp2.1\Matematik.pdb
+C:\Users\ASUS\source\repos\Kampintro\Matematik\obj\Debug\netcoreapp2.1\Matematik.dll
+C:\Users\ASUS\source\repos\Kampintro\Matematik\obj\Debug\netcoreapp2.1\Matematik.pdb
+C:\Users\ASUS\source\repos\Kampintro\Matematik\obj\Debug\netcoreapp2.1\Matematik.csprojAssemblyReference.cache
