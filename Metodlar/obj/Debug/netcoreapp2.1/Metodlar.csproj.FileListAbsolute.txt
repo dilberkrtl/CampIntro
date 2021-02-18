@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Kampintro\Metodlar\bin\Debug\netcoreapp2.1\Metodlar.deps.json
+C:\Users\ASUS\source\repos\Kampintro\Metodlar\bin\Debug\netcoreapp2.1\Metodlar.runtimeconfig.json
+C:\Users\ASUS\source\repos\Kampintro\Metodlar\bin\Debug\netcoreapp2.1\Metodlar.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Kampintro\Metodlar\bin\Debug\netcoreapp2.1\Metodlar.dll
+C:\Users\ASUS\source\repos\Kampintro\Metodlar\bin\Debug\netcoreapp2.1\Metodlar.pdb
+C:\Users\ASUS\source\repos\Kampintro\Metodlar\obj\Debug\netcoreapp2.1\Metodlar.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Kampintro\Metodlar\obj\Debug\netcoreapp2.1\Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Kampintro\Metodlar\obj\Debug\netcoreapp2.1\Metodlar.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Kampintro\Metodlar\obj\Debug\netcoreapp2.1\Metodlar.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Kampintro\Metodlar\obj\Debug\netcoreapp2.1\Metodlar.dll
+C:\Users\ASUS\source\repos\Kampintro\Metodlar\obj\Debug\netcoreapp2.1\Metodlar.pdb
