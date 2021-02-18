@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Kampintro\Donguler\bin\Debug\netcoreapp2.1\Donguler.deps.json
+C:\Users\ASUS\source\repos\Kampintro\Donguler\bin\Debug\netcoreapp2.1\Donguler.runtimeconfig.json
+C:\Users\ASUS\source\repos\Kampintro\Donguler\bin\Debug\netcoreapp2.1\Donguler.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Kampintro\Donguler\bin\Debug\netcoreapp2.1\Donguler.dll
+C:\Users\ASUS\source\repos\Kampintro\Donguler\bin\Debug\netcoreapp2.1\Donguler.pdb
+C:\Users\ASUS\source\repos\Kampintro\Donguler\obj\Debug\netcoreapp2.1\Donguler.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Kampintro\Donguler\obj\Debug\netcoreapp2.1\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Kampintro\Donguler\obj\Debug\netcoreapp2.1\Donguler.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Kampintro\Donguler\obj\Debug\netcoreapp2.1\Donguler.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Kampintro\Donguler\obj\Debug\netcoreapp2.1\Donguler.dll
+C:\Users\ASUS\source\repos\Kampintro\Donguler\obj\Debug\netcoreapp2.1\Donguler.pdb
