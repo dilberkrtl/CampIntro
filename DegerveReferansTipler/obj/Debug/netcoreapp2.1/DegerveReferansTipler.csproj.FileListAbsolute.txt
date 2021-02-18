@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Kampintro\DegerveReferansTipler\bin\Debug\netcoreapp2.1\DegerveReferansTipler.deps.json
+C:\Users\ASUS\source\repos\Kampintro\DegerveReferansTipler\bin\Debug\netcoreapp2.1\DegerveReferansTipler.runtimeconfig.json
+C:\Users\ASUS\source\repos\Kampintro\DegerveReferansTipler\bin\Debug\netcoreapp2.1\DegerveReferansTipler.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Kampintro\DegerveReferansTipler\bin\Debug\netcoreapp2.1\DegerveReferansTipler.dll
+C:\Users\ASUS\source\repos\Kampintro\DegerveReferansTipler\bin\Debug\netcoreapp2.1\DegerveReferansTipler.pdb
+C:\Users\ASUS\source\repos\Kampintro\DegerveReferansTipler\obj\Debug\netcoreapp2.1\DegerveReferansTipler.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Kampintro\DegerveReferansTipler\obj\Debug\netcoreapp2.1\DegerveReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Kampintro\DegerveReferansTipler\obj\Debug\netcoreapp2.1\DegerveReferansTipler.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Kampintro\DegerveReferansTipler\obj\Debug\netcoreapp2.1\DegerveReferansTipler.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Kampintro\DegerveReferansTipler\obj\Debug\netcoreapp2.1\DegerveReferansTipler.dll
+C:\Users\ASUS\source\repos\Kampintro\DegerveReferansTipler\obj\Debug\netcoreapp2.1\DegerveReferansTipler.pdb
